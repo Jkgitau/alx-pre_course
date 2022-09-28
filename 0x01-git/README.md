@@ -1,1 +1,1 @@
-Non empty readme
+The README file is updated
